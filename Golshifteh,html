@@ -76,5 +76,13 @@
                    </article>
                    <hr>
                 </main>
+                <footer>
+                    <p>External links</p>
+                    <nav>
+                        <a href="https://www.imdb.com/name/nm0267042/">Golshifteh Farahani</a>
+                        <br>
+                        <a href="https://en.wikipedia.org/wiki/IMDb">IMDb</a>
+                    </nav>
+                </footer>
 </body>
 </html>
