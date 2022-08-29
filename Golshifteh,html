@@ -14,5 +14,37 @@
         <figcaption>Golshifteh Farahani is the greatest actress in the world</figcaption>
         </figure>
         </header>
+        <main>
+            <p>Farahani was born in Tehran, Iran. She is the daughter of Behzad Farahani, 
+                a theatre director and actor, and Fahimeh Rahim Nia. Her sister is actress Shaghayegh Farahani.
+                [2] Golshifteh began studying music and piano at the age of five, and later entered a music school in Tehran. 
+                At 14, she was cast as the lead in Dariush Mehrjui's The Pear Tree,
+                a role for which she won the Crystal Roc for Best Actress from the International Section of the 16th Fajr International Film Festival 
+                in Tehran.</p>
+               <b>The best movies in which Golshifteh Farahani acted</b>
+              
+                <p>Among the films that Golshifteh Farahani has acted in outside of Iran, Peterson is her most important film, in which she collaborated with Jim Jarmusch, an important director of American independent cinema. One of the few main roles of Golshifteh Farahani in the film is of a well-known director abroad, 
+                    and of course Golshifteh shows in "Paterson" why we always remember her as one of the best actresses in Iranian cinema and regret her departure.</p>
+                  
+                  <br>
+                    <article>
+                    <form>
+                        <label for="text1">name:<input type="text" id="text1"></label>
+                        <br>
+                        <label for="email1">email:<input type="email" id="email1"></label>
+                        <br>
+                        <p>Golshifteh Farahani's age?</p>
+                        <br>
+                        <label for="checkbox1">1983<input type="checkbox" id="checkbox1"></label>
+                        <label for="checkbox2">1970<input type="checkbox" id="checkbox2"></label>
+                        <br>
+                        <label for="text2">comment:<textarea id="text2"></textarea></label>
+                        <br>
+                        <label for="submit1">submit:<input type="submit" id="submit1"></label>
+                        
+                    </form>
+                   </article>
+                   <hr>
+                </main>
 </body>
 </html>
