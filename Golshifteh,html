@@ -7,5 +7,12 @@
     <title>Golshifteh Farahani</title>
 </head>
 <body>
+    <header>
+        <h1>Golshifteh Farahani</h1>
+        <figure>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe0C2wrWpvixo28sXPHZvJT_K2d082PPoBJw&usqp=CAU" alt="Golshifteh Farahani's picture">
+        <figcaption>Golshifteh Farahani is the greatest actress in the world</figcaption>
+        </figure>
+        </header>
 </body>
 </html>
