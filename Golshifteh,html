@@ -36,7 +36,25 @@
                         
                     </ul>
                     <section>
-           
+                        <br>
+                        <span>Concerts</span>
+                        <table>
+                            <tbody>
+                                <tr>
+                                   <th>Date</th> 
+                                   <th>venue</th>
+                                   <th>note</th>
+                                </tr>
+                                <tr>
+                                    <td>10 August 2009</td>
+                                    <td>Sala Verdi, Milan Conservatory</td>
+                                    <td>With Mohsen Namjoo, presentation of the new album Oy</td>
+                                </tr>
+                                <td>9 November 2009</td>
+                                <td>Lido, Venice</td>
+                                <td>With Mohsen Namjoo, during the Venice Film Festival</td>
+                            </tbody>
+                        </table>
                     </section>
                   <br>
                     <article>
